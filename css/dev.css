@@ -11,6 +11,7 @@ input {
 	background-color: #ecf2f4;
 	border-radius: 0.2rem;
 	border: none;
+	color: #323232;
 }
 h2 {
 	margin-bottom: 3rem;
@@ -181,16 +182,17 @@ div.icons {
     padding-top: 10px;
     font-size: 18px;
     color: #cf3637;
-    padding-right: 14px;
+    padding-right: -5px;
 }
 div.logo {
     float: left;
     /* padding-left: 1px; */
 }
 div.icons span {
-    padding-right: 5px;
+    padding-right: 12px;
     text-align: right;
     float: right;
+    font-size: 23px;
 }
 
 div.mapsample {
@@ -230,4 +232,8 @@ background: #A50E10;
 .sub button.btn.btn-default.full-width {
 background: #cf3638;
 border: #A50E10;
+}
+
+div.icons a {
+    color: #cf3637;
 }
