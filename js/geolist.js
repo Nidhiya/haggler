@@ -4,7 +4,7 @@
 
 //globals
 
-
+//Used Local Storage
 //------------------------------------------------------------
 
 function getLocation()  //to get geolocation in lat and long
