@@ -59,7 +59,7 @@ login_btn.addEventListener("click", function(username,password){
                 // You can then get info from the user entity object:
                 var username = user.get('username');
                 console.log(username);
-                window.location.replace("map.html");
+                window.location.replace("home.html");
             }
         });
 
